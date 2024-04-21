@@ -1,0 +1,52 @@
+body{
+    font-family: inherit;
+}
+
+.box{
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+.first-box{
+    background-color: rgb(128, 185, 232);
+    display: flex;
+    gap: 15em;
+}
+
+
+.form{
+    margin-top: 50px;
+    margin-left: -10em;
+}
+
+.forgot{
+    margin-top: 60px;
+}
+
+img{
+    width: 40%;
+}
+
+input{
+    width: 180%;
+    margin: 1em auto;
+    height: 1.5em;
+    font-size: 1em;
+    background-color: rgba(254, 250, 250, 0.937);
+    border-color: white;
+    min-width: 300px;
+    border-radius: 0.25rem;
+}
+
+button{
+    min-width: 300px;
+    width: 180%;
+    height: 2.0em;
+    background-color: rgb(47, 121, 181);
+    border-color: none;
+    border-style: none;
+    
+}
